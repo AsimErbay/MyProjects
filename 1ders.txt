@@ -1,0 +1,19 @@
+1. Video Ders Notları
+
+C ve C++ konusunda standartasyon komiteleri mevcut.
+
+C özellikleri
+
+İmperative 
+procedural
+non-proprietary
+static typing
+general purpose
+artifical
+standard
+expressive
+portable
+
+paradigma:
+
+C nesne
